@@ -57,7 +57,7 @@ const Footer = () => {
             </a>
             <a
               className="block text-[2vh] font-light relative cursor-pointer link link--metis"
-              href="./"
+              href="https://youtube.com"
             >
               YOUTUBE
             </a>
