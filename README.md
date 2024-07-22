@@ -27,14 +27,16 @@ To set up the project locally, follow these steps:
 
 2. **Install dependencies**
 
-   ``sh
+   ```sh
    npm install
    ```
 
 3.** Start the development serverv **
 
-   ``sh
+   ```sh
+   
    npm run dev
+   
   ```
 
 ## Usage
